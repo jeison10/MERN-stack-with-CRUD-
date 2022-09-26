@@ -9,7 +9,7 @@ app.use(cors());
 
 
 // connect to the database
-mongoose.connect("mongodb+srv://jeison10:je88061149@cluster0.qpmzc1j.mongodb.net/?retryWrites=true&w=majority")
+mongoose.connect("Write your connection to your mongoDB here")
 
 
 //end point for show the data
